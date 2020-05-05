@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+*{
+  font-family: 'Comfortaa', cursive;
+}
+
+.bg-nav{
+  background-color: #0f754e;
+}
+
+#v-pills-tab{
+  display:block;
+  height: 15em;
+  overflow:auto;
+}
